@@ -1,0 +1,9 @@
+go 1.18
+
+use (
+	./chatHttp
+	./chatSocket
+	./conf
+	./logger
+	./main
+)
